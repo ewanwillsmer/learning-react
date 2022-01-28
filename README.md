@@ -1,3 +1,7 @@
+This was a short blog site tutorial provided by Udemy.
+
+The site uses modern React.js principles including Hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
